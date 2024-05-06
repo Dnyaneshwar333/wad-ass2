@@ -1,0 +1,4 @@
+name= binod
+job = trolling
+city = bhosri
+age = just a no.
